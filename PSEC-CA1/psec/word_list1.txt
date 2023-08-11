@@ -1,0 +1,85 @@
++Simple words
+deer:it has large ears, short tails, and long slender legs
+zebra:african equines with distinctive black-and-white striped coats
+fox:orange, has pointy ears and is fairly manipulative
+wolf:leader of the pack is usually called alpha
+lion:king of the forest
+bear:loves honey
+shark:notorious in the ocean and most prominently found in soup
+frog:ribbit
+whale:fairly huge and are one of the few mammals in the sea
+boar:a male pig
+fawn:a young deer
+lamb:a baby sheep
+mouse:an animal in the family of rodents
+sloth:this animal is super slow
+viper:a deadly snake
+raven:a black bird
+eagle:a huge carnivorous bird
+roach:short form for cockroach
+puppy:a small dog
+welp:you are in pain emotionally or physically
+horn:pointy thing on animals' heads
+cart:these are things with wheels that can transport things / people
+socks:you wear this on your feet
+jeans:you wear this during smart casual events, ususally blue
+sweater:swaathi's favourite form of clothing
+tie:you wear it around your neck
+semolina:semolina
+hilarious:a synonym for funny
+groggy:when you are tired
+zodiac:another word for horoscopes
+dwarf:a mythical person with an unusally small stature
+oxygen:a chemical compund that all living things need
+puzzling:synonym for surprising
+microwave:a oven that uses a electromagnetic wave to heat food
+zombie:they eat brains
+END
++Complex words
+witchcraft:the medium a witch uses to cast magic
+aquaphobic:you are scred of water
+backpacker:someone who travels an area with just a backpack 
+chickenpox:a infection that makes you want to scratch yourself
+friendship:something that makes survival enjoyable
+jaywalkers:the most prominent criminals in singapore
+strawberry:a tiny red fruit 
+motivation:something that is helpful but you can do without to perform well in school
+investment:when you buy a property, you have made an ...
+understood:an undervalued aspect that stablises your seretonin
+technology:the most prominent machine these days
+icebreaker:games played when people are unfamiliar with each other to make them more familiar
+buzzworthy:something likely to arouse interest in the general public (usually used in celebrity news)
+END
++Simple idioms and proverbs
+a blessing in disguise:a good thing that seemed bad at first
+a dime a dozen:something common
+beat around the bush:avoid saying what you mean, usually because it is uncomfortable
+better late than never:better to arrive late than not to come at all
+bite the bullet:to get something over with because it is inevitable
+hang in there:don't give up
+under the weather:sick
+the best of both worlds:an ideal situation
+call it a day:stop working on something
+break a leg:good luck
+actions speak louder than words:believe what people do and not what they say
+break the ice:make people feel more comfortable
+take a rain check:postpone a plan
+fit as a fiddle:you are in good health
+END
++Complex idioms and proverbs
+we will cross that bridge when we come to it:let's not talk about that problem right now
+wrap your head around something:understand something complicated
+do not put all your eggs in one basket:what you're doing is too risky
+every cloud has a silver lining:good things come after bad things
+get a taste of your own medicine:get treated the way you've been treating others (negative)
+it is raining cats and dogs:it's raining hard
+kill two birds with one stone:get two things done with a single action
+once in a blue moon:rarely
+the devil is in the details:it looks good from a distance, but when you look closer, there are problems
+there is a method to his madness:she seems crazy but actually she's clever
+you cannot judge a book by its cover:this person or thing may look bad, but it's good inside
+you can lead a horse to water but you cannot make it drink:you can only help someone, you cannot force someone to do something
+a journey of a thousand miles begin with a single step:something that takes a long time to finish begins with one step
+END
++Hello
+END

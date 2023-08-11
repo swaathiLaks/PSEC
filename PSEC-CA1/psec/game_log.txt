@@ -1,0 +1,77 @@
++Simple words
+12-12-2022|1|Swaathi|30|deer,zebra,fox
+13-12-2022|1|Sandhya|30|deer,zebra,fox
+14-12-2022|1|Lakshmanan|30|deer,zebra,fox
+14-12-2022|1|swag|-3|roach,fox,whale,sloth
+15-12-2022|2|Swaathi|60|sloth,puppy,raven,whale
+15-12-2022|1|Taylor|78|puppy,mouse,boar,lamb
+15-12-2022|1|francis|21|fawn,wolf,bear,mouse
+15-12-2022|2|Lakshmanan|60|raven,lion,mouse,fawn
+15-12-2022|1|oooo|80|lamb,boar,puppy,deer
+15-12-2022|1|sandhyaaa|2|wolf,shark sloth whale
+15-12-2022|1|sandhyalol|22|viper,sloth shark wolf
+15-12-2022|2|sandhyalol|43|bear,lamb,fox,roach
+20-12-2022|1|newPlayer|20|mouse,zebra,viper,frog
+22-12-2022|1|heggles|38|sloth,lion,mouse,frog
+24-12-2022|1|SembaKing|20|whale,fox,deer,best
+24-12-2022|2|SembaKing|-4|eagle,boar,frog,shark
+24-12-2022|3|SembaKing|-3|fawn
+24-12-2022|1|Sarah|5|frog,welp,shark,bear,fawn,puppy,boar,zebra,deer
+24-12-2022|2|Sarah|1|eagle,viper,lion,raven,best,whale,wolf,fox,roach
+25-12-2022|1|elephant|20|raven
+25-12-2022|2|elephant|20|best
+25-12-2022|3|elephant|21|wolf,mouse
+25-12-2022|1|Samsung|20|best
+26-12-2022|1|new-user/one|-2|zebra
+26-12-2022|2|new-user/one|20|frog
+27-12-2022|1|Mario|20|eagle
+27-12-2022|2|Mario|20|mouse
+27-12-2022|3|Mario|42|puppy,shark,roach,fox
+30-12-2022|2|newPlayer|-4|zombie
+30-12-2022|1|hello|-2|zebra
+30-12-2022|2|hello|3|wolf
+30-12-2022|3|hello|2|deer
+30-12-2022|4|hello|0|fox
+30-12-2022|5|hello|-4|semolina
+06-01-2023|1|admin-|-3|wolf,deer
+06-01-2023|2|admin-|-3|viper,puzzling
+06-01-2023|3|admin-|1|mouse
+END
++Complex words
+14-12-2022|1|swa|20|zodiac,groggy,zombie,microwave
+14-12-2022|1|sandhyaiscool|39|puzzling,dwarf,zombie,witchcraft
+14-12-2022|2|sandhyaiscool|60|microwave,hilarious,groggy,oxygen
+15-12-2022|2|swa|20|dwarf,oxygen,witchcraft,hilarious
+15-12-2022|1|taylor|80|dwarf,puzzling,witchcraft,microwave
+15-12-2022|2|taylor|80|oxygen,zodiac,hilarious,groggy
+15-12-2022|1|Lakshmanan|40|zodiac,groggy,dwarf,hilarious
+24-12-2022|1|SembaKing|-4|witchcraft,microwave,puzzling,groggy
+30-12-2022|1|newPlayer|20|backpacker
+END
++Simple idioms and proverbs
+16-12-2022|1|oooo|40|a blessing in disguise,break the ice,beat around the bush,fit as a fiddle
+25-12-2022|1|elephant|41|actions speak louder than words,better late than never,the best of both worlds,call it a day
+END
++Complex idioms and proverbs
+22-12-2022|1|newPlayer|20|do not put all your eggs in one basket,once in a blue moon,we will cross that bridge when we come to it,wrap your head around something
+24-12-2022|1|admin|2|the devil is in the details,kill two birds with one stone,every cloud has a silver lining,you cannot judge a book by its cover
+24-12-2022|1|SembaKing|20|we will cross that bridge when we come to it,you cannot judge a book by its cover,every cloud has a silver lining,wrap your head around something
+06-01-2023|1|f|20|do not put all your eggs in one basket
+END
++Four Letter Words
+25-12-2022|1|SembaKing|42|cart,horn,bear
+25-12-2022|1|Samsung|-4|bear,cart,horn
+END
++Clothing
+25-12-2022|1|LG|0|socks,jeans,sweater
+END
++Seven Letter Words
+25-12-2022|1|Samsung|0|semolina
+25-12-2022|1|Toshiba|7|semolina
+END
++newDictionary
+END
++excuseme
+END
++Hello
+END

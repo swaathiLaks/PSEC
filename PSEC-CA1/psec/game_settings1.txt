@@ -1,0 +1,5 @@
++game settings
+number of attempts:1
+number of words:1
+number of top players:1
+END
